@@ -1,4 +1,4 @@
-# FinPark Global – Official Landing Page
+# FinPark Global – Landing Page
 
 A modern, high-performance, fully responsive landing page for FinPark Global, a specialized regulatory and compliance consulting firm serving fintechs, payment companies, NBFCs, crypto enterprises, and financial institutions worldwide.
 
