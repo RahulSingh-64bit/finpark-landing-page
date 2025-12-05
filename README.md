@@ -32,22 +32,3 @@ Built with the latest Next.js App Router, Tailwind CSS v4+, and Lucide React ico
 11. Resource Hub with downloadable assets  
 12. Newsletter subscription CTA  
 
-## Project Structure
-/
-├── app/
-│   └── page.jsx              # Main page assembling all sections
-├── components/
-│   ├── Navbar.jsx
-│   ├── HeroSection.jsx
-│   ├── FeaturesSection.jsx
-│   ├── AboutSection.jsx
-│   ├── ServicesSection.jsx
-│   ├── IndustrySection.jsx
-│   ├── ProcessSection.jsx
-│   ├── SuccessStoriesSection.jsx
-│   ├── WhyChooseUsSection.jsx
-│   ├── TestimonialsSection.jsx
-│   └── ResourceHubSection.jsx
-├── public/
-│   └── images/               
-└── package.json
